@@ -1,0 +1,128 @@
+[
+  {
+    "model": "porfolio.service",
+    "pk": 1,
+    "fields": {
+      "title": "Design Graphique",
+      "description": "Création d'identités visuelles modernes et impactantes pour votre marque",
+      "icon": "Palette",
+      "features": [
+        "Logo design personnalisé",
+        "Charte graphique complète",
+        "Affiches et supports marketing",
+        "Design d'interface utilisateur"
+      ],
+      "price": "À partir de 50,000 FCFA",
+      "popular": false,
+      "active": true,
+      "order": 1,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "porfolio.service",
+    "pk": 2,
+    "fields": {
+      "title": "Développement Web",
+      "description": "Sites web modernes, rapides et optimisés pour tous les appareils",
+      "icon": "Globe",
+      "features": [
+        "Sites web responsive",
+        "Applications web dynamiques",
+        "E-commerce sur mesure",
+        "Maintenance et support"
+      ],
+      "price": "À partir de 150,000 FCFA",
+      "popular": true,
+      "active": true,
+      "order": 2,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "porfolio.service",
+    "pk": 3,
+    "fields": {
+      "title": "Applications Mobile",
+      "description": "Applications mobiles natives et hybrides pour iOS et Android",
+      "icon": "Smartphone",
+      "features": [
+        "Applications iOS & Android",
+        "Interface utilisateur intuitive",
+        "Intégration API et base de données",
+        "Publication sur les stores"
+      ],
+      "price": "À partir de 300,000 FCFA",
+      "popular": false,
+      "active": true,
+      "order": 3,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "porfolio.service",
+    "pk": 4,
+    "fields": {
+      "title": "Vente de Cakes",
+      "description": "Cakes personnalisés et délicieux pour toutes vos occasions spéciales",
+      "icon": "GiCakeSlice",
+      "features": [
+        "Cakes sur mesure",
+        "Ingrédients de qualité",
+        "Livraison à domicile",
+        "Décoration artistique"
+      ],
+      "price": "À partir de 15,000 FCFA",
+      "popular": false,
+      "active": true,
+      "order": 4,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "porfolio.service",
+    "pk": 5,
+    "fields": {
+      "title": "Optimisation SEO",
+      "description": "Améliorez votre visibilité sur les moteurs de recherche",
+      "icon": "Search",
+      "features": [
+        "Audit SEO complet",
+        "Optimisation technique",
+        "Stratégie de contenu",
+        "Suivi des performances"
+      ],
+      "price": "À partir de 80,000 FCFA",
+      "popular": false,
+      "active": true,
+      "order": 5,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "porfolio.service",
+    "pk": 6,
+    "fields": {
+      "title": "Consultation Tech",
+      "description": "Conseils stratégiques pour vos projets technologiques",
+      "icon": "Users",
+      "features": [
+        "Audit technologique",
+        "Roadmap de développement",
+        "Formation équipe",
+        "Support technique"
+      ],
+      "price": "À partir de 100,000 FCFA",
+      "popular": false,
+      "active": true,
+      "order": 6,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+
+POST  http://127.0.0.1:8000/api/project/
+Content-Type: application/json
+
+  {
+    "category": 12,
+    "name": "Jus de mangue",
+    "description": "Un jus de fruit de qualité pour vous. votre santé notre soucis",
+    "image": "./media/Announce_6sYVbuO.jpeg",
+  }
+###    
+
+GET  http://127.0.0.1:8000/api/project/
+
+###
+PATCH  http://127.0.0.1:8000/api/project/38/
+Content-Type: application/json
+
+{
+  "category": 12,
+  "name": "Jus de mangue modifié",
+  "description": "Description modifiée du projet",
+  "image": "./media/Announce_6sYVbuO.jpeg"
+}
+
+###
+DELETE http://127.0.0.1:8000/api/project/1/
